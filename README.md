@@ -1,4 +1,4 @@
-# CODVEDA Level 1 - Task 2: Data Cleaning and Preprocessing
+# Codveda Level 1 - Task 2: Data Cleaning and Preprocessing
 ## Project Overview
 This project focuses on cleaning and preprocessing raw datasets to prepare them for machine learning and analysis.
 
